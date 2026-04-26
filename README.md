@@ -1,5 +1,2 @@
-# UI-for-user-interface-for-e-hospital-platform
+# ehosptal_flutter_revamp
 
-Wang, Sihan - 8359108
-
-Yang, Xixian - 300481498

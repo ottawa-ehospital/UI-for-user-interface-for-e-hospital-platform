@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "date": "2026-02-10",
+    "time": "10:30 AM",
+    "doctor": "Dr. Sarah Johnson",
+    "patient": "John Smith",
+    "type": "OHIP",
+    "notes": "Regular checkup",
+    "codes": ["A007", "G372"]
+  },
+  {
+    "id": "2",
+    "date": "2026-02-10",
+    "time": "11:15 AM",
+    "doctor": "Dr. Sarah Johnson",
+    "patient": "Emily Davis",
+    "type": "Private",
+    "notes": "Consultation for back pain",
+    "codes": ["K131"]
+  },
+  {
+    "id": "3",
+    "date": "2026-02-09",
+    "time": "02:00 PM",
+    "doctor": "Dr. Sarah Johnson",
+    "patient": "Michael Brown",
+    "type": "OHIP",
+    "notes": "Follow-up visit",
+    "codes": ["A003", "X121"]
+  },
+  {
+    "id": "4",
+    "date": "2026-02-09",
+    "time": "03:30 PM",
+    "doctor": "Dr. Sarah Johnson",
+    "patient": "Jessica Wilson",
+    "type": "OHIP",
+    "notes": "Annual physical exam",
+    "codes": ["A001", "G014"]
+  },
+  {
+    "id": "5",
+    "date": "2026-02-08",
+    "time": "09:00 AM",
+    "doctor": "Dr. Sarah Johnson",
+    "patient": "David Martinez",
+    "type": "Private",
+    "notes": "Vaccination",
+    "codes": ["G590"]
+  },
+  {
+    "id": "6",
+    "date": "2026-02-08",
+    "time": "10:45 AM",
+    "doctor": "Dr. Sarah Johnson",
+    "patient": "Sarah Anderson",
+    "type": "OHIP",
+    "notes": "Lab test results review",
+    "codes": ["A007", "G372", "X121"]
+  },
+  {
+    "id": "7",
+    "date": "2026-02-07",
+    "time": "01:15 PM",
+    "doctor": "Dr. Sarah Johnson",
+    "patient": "James Taylor",
+    "type": "OHIP",
+    "notes": "Minor surgery consultation",
+    "codes": ["Z555"]
+  },
+  {
+    "id": "8",
+    "date": "2026-02-07",
+    "time": "04:00 PM",
+    "doctor": "Dr. Sarah Johnson",
+    "patient": "Lisa Thompson",
+    "type": "Private",
+    "notes": "Dermatology consultation",
+    "codes": ["K131", "X099"]
+  },
+  {
+    "id": "9",
+    "date": "2026-02-06",
+    "time": "11:30 AM",
+    "doctor": "Dr. Sarah Johnson",
+    "patient": "Robert Garcia",
+    "type": "OHIP",
+    "notes": "Diabetes follow-up",
+    "codes": ["A003", "G014"]
+  },
+  {
+    "id": "10",
+    "date": "2026-02-06",
+    "time": "02:45 PM",
+    "doctor": "Dr. Sarah Johnson",
+    "patient": "Mary Rodriguez",
+    "type": "OHIP",
+    "notes": "Prescription refill",
+    "codes": ["A007"]
+  }
+]
